@@ -1,0 +1,28 @@
+/** attributes */
+.taxonomy-pro-car-dealer-attributes .term-description-wrap{
+    display: none;
+}
+
+.form-table .form-field{
+    margin-bottom: 20px;
+}
+
+.column-thumb{
+	width: 50px;
+}
+
+.em-select-values input{
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 480px) {
+    #addtag select{
+        min-width: 223px;
+    }
+    .em-select-values input{
+        max-width: 224px;
+    }
+    .em-select-values > *{
+        display: inline-block;
+    }
+}

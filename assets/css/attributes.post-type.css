@@ -1,0 +1,82 @@
+/** attributes. */
+#envato-market-attributes .inside{
+    padding: 0 0 0!important;
+}
+
+.em-attributes table{
+    width: 100%;
+    border-spacing: 0;
+}
+
+.em-attributes table tr{
+    height: 50px;
+    width: 100%;
+}
+
+.em-attributes table tr:nth-child(even){
+    background-color: #f5f5f5;
+}
+
+.em-attributes table select, .em-attributes table input {
+    min-width: 223px;
+}
+
+.em-attributes table th{
+    text-align: left;
+    padding-left: 12px;
+    max-width: 22px;
+}
+/** actions */
+.em-actions .em-get-new-items,.em-actions .em-get-items{
+    margin-right: 15px;
+}
+
+/* console log */
+#em-console-log{
+    position: fixed;
+    right: 100px;
+    bottom: 0px;
+}
+
+.em-console-header{
+    background-color: rgb(15, 171, 156);
+    color: #fff;
+    width: 500px;
+    padding: 5px;
+}
+
+#em-console-title{
+    text-transform: uppercase;
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.em-console-content{
+    width: 100%;
+    height: 0px;
+    background: #fff;
+    -webkit-transition: height 1s;
+    transition: height 1s;
+}
+
+.em-console-content.active{
+    height: 200px;
+    -webkit-transition: height 2s;
+    transition: height 2s;
+}
+
+.em-console-content > div{
+    width: 505px;
+    max-height: 200px;
+    overflow: auto;
+    margin-left: 5px;
+    padding-top: 5px;
+    font-size: 9px;
+    color: #0FAB9C;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
+.em-console-header .right{
+    float: right;
+}

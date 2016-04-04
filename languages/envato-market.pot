@@ -1,0 +1,324 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Envato Market\n"
+"POT-Creation-Date: 2016-02-19 14:43+0700\n"
+"PO-Revision-Date: 2016-02-19 14:43+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: envato-market.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin-page/admin.main.php:17
+msgid "General"
+msgstr ""
+
+#: inc/admin-page/admin.main.php:18
+msgid "Cron Job"
+msgstr ""
+
+#: inc/admin-page/admin.main.php:19
+msgid "Email & Notices"
+msgstr ""
+
+#: inc/admin-page/admin.post.php:22
+msgid "Setting"
+msgstr ""
+
+#: inc/admin-page/admin.post.php:31
+msgid "Site Url:"
+msgstr ""
+
+#: inc/admin-page/admin.post.php:33
+msgid "themeforest.net"
+msgstr ""
+
+#: inc/admin-page/admin.post.php:34
+msgid "themeforest.net, codecanyon.net, videohive.net, audiojungle.net..."
+msgstr ""
+
+#: inc/admin-page/admin.post.php:38
+msgid "Update Times:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-cronjob.php:46
+msgid "Auto Update"
+msgstr ""
+
+#: inc/admin-page/admin.tab-cronjob.php:56
+msgid "1 - Edit File wp-config.php add 'define('DISABLE_WP_CRON', true);'"
+msgstr ""
+
+#: inc/admin-page/admin.tab-cronjob.php:58
+msgid "2 - Command:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-cronjob.php:63
+msgid "Sleep Times:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-cronjob.php:72
+msgid "You can set times sleep after job done."
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:37
+msgid "Server Info:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:39
+msgid "1 - host:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:40
+msgid "1 - memory_limit:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:41
+msgid "2 - max_execution_time:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:42
+msgid "3 - post_max_size:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:46
+msgid "Access token:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:48
+msgid "0LiDEmekYdJXFrXZ2jK65o3UKOu0up7h"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:49
+msgid "You can create a personal token "
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:49
+msgid "here."
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:53
+msgid "Post type:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:67
+msgid "Taxonomy Slug"
+msgstr ""
+
+#: inc/admin-page/admin.tab-general.php:68
+msgid ""
+"You can set taxonomy slug follow (posttype_slug-category & posttype_slug-"
+"tag) plugin auto detect categories and tags of post type."
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:21
+msgid "E-Mail:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:34
+msgid "After get item:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:37
+msgid "Notice after get items complete."
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:41
+msgid "After check new items:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:44
+msgid "Notice after check new items if exists new items."
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:48
+msgid "Pending items / day:"
+msgstr ""
+
+#: inc/admin-page/admin.tab-notices.php:51
+msgid "Notice total pending items / day."
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:20
+msgid "Select"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:21
+msgid "Text"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:22
+msgid "Number"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:23
+msgid "Multiple"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:24 inc/class.taxonomy.php:53
+#: inc/class.taxonomy.php:63 inc/class.taxonomy.php:204
+msgid "Attributes"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:25
+msgid "Object"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:33 inc/class.taxonomy.php:132
+msgid "Type"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:41 inc/class.taxonomy.php:133
+msgid "Values"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:46
+msgid "title"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:47
+msgid "value"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:48
+msgid "Add"
+msgstr ""
+
+#: inc/attributes/attributes-fields.php:53
+msgid "add options for select or multiple attribute."
+msgstr ""
+
+#: inc/attributes/edit-attributes-fields.php:13
+#: inc/attributes/edit-taxonomy-fields.php:13
+msgid "Options"
+msgstr ""
+
+#: inc/attributes/meta-box-thumb.php:46
+msgid "Choose an image"
+msgstr ""
+
+#: inc/attributes/meta-box-thumb.php:48
+msgid "Use image"
+msgstr ""
+
+#: inc/attributes/meta-box-thumb.php:76
+msgid "Set featured image"
+msgstr ""
+
+#: inc/attributes/meta-box-thumb.php:79
+msgid "Remove thumbnail image"
+msgstr ""
+
+#: inc/attributes/taxonomy-fields.php:20
+msgid "Title Template"
+msgstr ""
+
+#: inc/attributes/taxonomy-fields.php:22
+#, php-format
+msgid "Title template (Download | %s)."
+msgstr ""
+
+#: inc/attributes/taxonomy-fields.php:25
+msgid "Default Tags"
+msgstr ""
+
+#: inc/attributes/taxonomy-fields.php:27
+msgid "Auto add tags to items in category (tag a, tag b, tag c, ...)."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: inc/class.admin-page.php:34
+msgid "Envato Market"
+msgstr ""
+
+#: inc/class.admin-page.php:70
+msgid "View Envato Market Settings"
+msgstr ""
+
+#: inc/class.admin-page.php:70 inc/class.taxonomy.php:233
+msgid "Settings"
+msgstr ""
+
+#: inc/class.envato.php:163
+msgid "Three Minutes"
+msgstr ""
+
+#: inc/class.envato.php:188
+msgid "All"
+msgstr ""
+
+#: inc/class.envato.php:657
+#, php-format
+msgid "%1$s Get - %2$s"
+msgstr ""
+
+#: inc/class.envato.php:676
+#, php-format
+msgid "%s - %u items add to pending list"
+msgstr ""
+
+#: inc/class.taxonomy.php:54
+msgid "Attribute"
+msgstr ""
+
+#: inc/class.taxonomy.php:55
+msgid "Search Attributes"
+msgstr ""
+
+#: inc/class.taxonomy.php:56
+msgid "All Attributes"
+msgstr ""
+
+#: inc/class.taxonomy.php:57
+msgid "Parent Attribute"
+msgstr ""
+
+#: inc/class.taxonomy.php:58
+msgid "Parent Attribute:"
+msgstr ""
+
+#: inc/class.taxonomy.php:59
+msgid "Edit Attribute"
+msgstr ""
+
+#: inc/class.taxonomy.php:60
+msgid "Update Attribute"
+msgstr ""
+
+#: inc/class.taxonomy.php:61
+msgid "Add New Attribute"
+msgstr ""
+
+#: inc/class.taxonomy.php:62
+msgid "New Attribute Name"
+msgstr ""
+
+#: inc/class.taxonomy.php:205
+msgid "Thumbnail"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "wpclup.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Auto sync envato items, for affiliate program (themeforest.net, codecanyon."
+"net, videohive.net, ...)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "edge studio"
+msgstr ""
